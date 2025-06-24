@@ -1,0 +1,51 @@
+
+**Case Study: Algorithmic Thinking**
+
+**Instructions:**
+- Answer the following questions using any programming language or pseudo-code.
+- Explain your thought process and the steps you took to arrive at your solution.
+- You may be asked to discuss your solutions during the interview.
+
+---
+
+### Question 1: 
+
+**Problem:** Given an integer array, write an algorithm that reverses the array in place.
+
+**Explanation:** This question tests your ability to work with arrays and create an algorithm.
+
+---
+
+### Question 2: 
+
+**Problem:** Given two strings, write an algorithm to check if they are anagrams of each other.
+
+**Explanation:** This question measures your ability to manipulate strings and use sorting algorithms.
+
+---
+
+### Question 3: 
+
+**Problem:** Given a linked list, write an algorithm to detect if the list contains a cycle.
+
+**Explanation:** This question tests your ability to work with linked lists and solve data structure problems like cycle detection.
+
+---
+
+### Question 4: 
+
+**Problem:** Given an NxN matrix, write an algorithm to rotate the matrix 90 degrees clockwise.
+
+**Explanation:** This question evaluates your ability to work with two-dimensional arrays and perform matrix manipulations.
+
+---
+
+### Question 5: 
+
+**Problem:** Given an integer n, write an algorithm to compute the nth Fibonacci number.
+
+**Explanation:** This question tests your ability to write recursive and iterative algorithms.
+
+---
+
+These questions aim to evaluate your algorithmic thinking and problem-solving skills. Please ensure to provide clear and detailed explanations along with your solutions.
